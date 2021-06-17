@@ -1,0 +1,11 @@
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\DemoCustMS.exe
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\appsettings.Development.json
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\appsettings.json
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\DemoCustMS.dll
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\DemoCustMS.deps.json
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\DemoCustMS.runtimeconfig.json
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\DemoCustMS.pdb
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS\CTS\DemoCustMS\DemoCustMS\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
